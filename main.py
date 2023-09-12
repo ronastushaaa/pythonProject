@@ -12,4 +12,5 @@ if m==[]:
     print(0)
     exit()
 ma=max(m)
-print(ma)
+#print(ma)
+print(m)
